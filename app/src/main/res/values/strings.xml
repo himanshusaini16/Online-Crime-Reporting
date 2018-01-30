@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Crime Reporting</string>
+    <string name="title_activity_navigation">Online Crime Reporting</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="report_ongoing_crime">Report a Crime</string>
+    <string name="view_a_crime">View A Crime</string>
+    <string name="tell">View Criminals</string>
+    <string name="apply_or_register">Apply or Register</string>
+    <string name="feedback">Feedback</string>
+    <string name="about_us">About Us</string>
+    <string name="crime">Crime</string>
+    <string name="log_in">Log In/Register</string>
+    <string name="register">Register</string>
+    <string name="feedbackaboutapp">Feedback</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="grievances">Grievances</string>
+    <string name="lodge_a_grievances">Lodge a Grievances</string>
+    <string name="report_a_crime">Report a Crime</string>
+    <string name="data">If you have witnessed or been the victim of crime, help us to bring the offender to justice and
+        make sure this does not happen to anyone else by reporting it here. Just answer a few quick questions below to find out the best way to get in touch.
+        The kind of information you provide here plays a huge part in how we plan our policing.</string>
+    <string name="is_it_an_emergency">Is it an emergency?</string>
+    <string name="data2">Does it feel like the situation could get heated or violent very soon? Is someone in immediate danger? Do you need support right away? If it is an emergency, please call <b>1-0-0</b> now.\nIf it is non-emergency crime or incident, please report via the application.</string>
+    <string name="home">Home</string>
+    <string name="form_details">This form should only be used for non-emergency type reports. If you wish to report an emergency or urgent incident, please call 1-0-0. If a suspect is known, please call our dispatch center so that a deputy can document the crime report.
+        Domestic violence, sex crimes or child custody violations should not be reported online. Please fill in the form as completely as possible so that we can start your investigation. You may be contacted by a deputy to follow-up on the information provided.</string>
+    <string name="priliminary_information">--Priliminary Information</string>
+    <string name="crimetype">Type of Crime</string>
+    <string name="yourinfo">--Your Information</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="contact">Contact</string>
+    <string name="crime_details">--Crime Details</string>
+    <string name="location_or_town">Location</string>
+    <string name="crime_date">Crime Date</string>
+    <string name="crime_time">Crime Time</string>
+    <string name="crime_description">Description of Crime</string>
+    <string name="enter_username">Enter Email</string>
+    <string name="passwordenter">Enter Password</string>
+    <string name="log_in_user">Log In</string>
+    <string name="not_registered_signup_here">Not Registered? <u>Signup</u> Here!</string>
+    <string name="victim_information">--Victim Information</string>
+    <string name="victim_name_if_available">Victim Name\n(If Available)</string>
+    <string name="physical_address">--Physical Address</string>
+    <string name="physical_address_insert">Address</string>
+    <string name="city_name">City</string>
+    <string name="state">State</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="submit_form">Submit Form</string>
+    <string name="enter_your_username">Enter your Username</string>
+    <string name="enter_email">Enter your Email</string>
+    <string name="select_crime">Select Crime Type</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_up_now">Sign Up</string>
+    <string name="about_us_detailed"><b>Online Crime Reporting</b> is an Android application developed to provide
+    users with a facility to report crime anywhere and anytime. It provides various facilities like reporting a crime online without going to the police station.
+    As well as, users can get the description of the criminals nearby.\n\nDevelopers:\n\n1.Himanshu Saini\n2.Arya Gaurav\n3.Lakshendra Singh\n4.Amay Kalal\n5.Kumar Santnu</string>
+
+
+</resources>
